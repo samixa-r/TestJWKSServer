@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestJWKSServer", "TestJWKSServer\TestJWKSServer.csproj", "{17B9E2DA-56B3-4C04-8756-4AB38ACC2A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJWKSServer.Tests", "TestJWKSServer.Tests\TestJWKSServer.Tests.csproj", "{AFA0F923-D401-4946-9911-41851D79549C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B9E2DA-56B3-4C04-8756-4AB38ACC2A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B9E2DA-56B3-4C04-8756-4AB38ACC2A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B9E2DA-56B3-4C04-8756-4AB38ACC2A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B9E2DA-56B3-4C04-8756-4AB38ACC2A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA0F923-D401-4946-9911-41851D79549C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA0F923-D401-4946-9911-41851D79549C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA0F923-D401-4946-9911-41851D79549C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA0F923-D401-4946-9911-41851D79549C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8890C261-D4D8-4D58-BE85-C0F42CF6D5A0}
+	EndGlobalSection
+EndGlobal
