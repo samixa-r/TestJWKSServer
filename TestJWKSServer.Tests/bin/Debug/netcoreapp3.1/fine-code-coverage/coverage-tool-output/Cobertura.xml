@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.71304347826087" branch-rate="0.75" lines-covered="82" lines-valid="115" branches-covered="6" branches-valid="8" complexity="21" version="0" timestamp="1709488178">
+<coverage line-rate="0.71304347826087" branch-rate="0.75" lines-covered="82" lines-valid="115" branches-covered="6" branches-valid="8" complexity="21" version="0" timestamp="1709488905">
   <sources>
     <source>C:\Users\samix\</source>
   </sources>
@@ -279,7 +279,7 @@
             <line number="4" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="TestJWKSServer.Tests.JwtControllerTests" filename="C:\Users\samix\source\repos\TestJWKSServer\TestJWKSServer.Tests\JwtControllerTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="TestJWKSServer.Tests.JwtControllerTests" filename="C:\Users\samix\OneDrive\Documents\GitHub\TestJWKSServer\TestJWKSServer.Tests\JwtControllerTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="Authenticate_ReturnsValidJwt" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>

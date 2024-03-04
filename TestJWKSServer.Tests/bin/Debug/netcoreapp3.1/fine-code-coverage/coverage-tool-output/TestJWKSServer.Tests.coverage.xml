@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.713" branch-rate="0.75" version="1.9" timestamp="1709509778" lines-covered="82" lines-valid="115" branches-covered="6" branches-valid="8">
+<coverage line-rate="0.713" branch-rate="0.75" version="1.9" timestamp="1709510504" lines-covered="82" lines-valid="115" branches-covered="6" branches-valid="8">
   <sources>
     <source>C:\Users\samix\</source>
   </sources>
@@ -310,7 +310,7 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="TestJWKSServer.Tests.JwtControllerTests" filename="source\repos\TestJWKSServer\TestJWKSServer.Tests\JwtControllerTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="TestJWKSServer.Tests.JwtControllerTests" filename="OneDrive\Documents\GitHub\TestJWKSServer\TestJWKSServer.Tests\JwtControllerTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="Authenticate_ReturnsValidJwt" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samix\\source\\repos\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj": {}
+    "C:\\Users\\samix\\OneDrive\\Documents\\GitHub\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samix\\source\\repos\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj": {
+    "C:\\Users\\samix\\OneDrive\\Documents\\GitHub\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samix\\source\\repos\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj",
+        "projectUniqueName": "C:\\Users\\samix\\OneDrive\\Documents\\GitHub\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj",
         "projectName": "TestJWKSServer",
-        "projectPath": "C:\\Users\\samix\\source\\repos\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj",
+        "projectPath": "C:\\Users\\samix\\OneDrive\\Documents\\GitHub\\TestJWKSServer\\TestJWKSServer\\TestJWKSServer.csproj",
         "packagesPath": "C:\\Users\\samix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samix\\source\\repos\\TestJWKSServer\\TestJWKSServer\\obj\\",
+        "outputPath": "C:\\Users\\samix\\OneDrive\\Documents\\GitHub\\TestJWKSServer\\TestJWKSServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samix\\AppData\\Roaming\\NuGet\\NuGet.Config",
